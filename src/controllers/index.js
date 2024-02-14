@@ -1,0 +1,7 @@
+export * from"./deletebyid.js"
+export * from"./getbyid.js"
+export * from"./search.js"
+export * from"./tourcreate.js"
+export * from"./gettingall.js"
+export * from"./updatebyid.js"
+export * from"./allfields.js"
